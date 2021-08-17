@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\TheStoneNewAdventure.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{ACB0BD26-C66F-45D6-8562-FFCE847E245A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TheStoneNewAdventure.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\TheStoneNewAdventureEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{E728905E-07FD-4DC0-AA7A-7C6DC56B1A7D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\TheStoneNewAdventure">
+      <UniqueIdentifier>{7B5EFE79-C081-47F1-BC67-991350A4FE74}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TheStoneNewAdventure\TheStoneNewAdventure.Build.cs">
+      <Filter>Source\TheStoneNewAdventure</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\TheStoneNewAdventure\TheStoneNewAdventure.cpp">
+      <Filter>Source\TheStoneNewAdventure</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheStoneNewAdventure\TheStoneNewAdventure.h">
+      <Filter>Source\TheStoneNewAdventure</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TheStoneNewAdventure\TheStoneNewAdventureGameModeBase.cpp">
+      <Filter>Source\TheStoneNewAdventure</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TheStoneNewAdventure\TheStoneNewAdventureGameModeBase.h">
+      <Filter>Source\TheStoneNewAdventure</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

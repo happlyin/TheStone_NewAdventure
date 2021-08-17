@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TheStoneNewAdventure",
+			"Path": "C:\\Users\\happl\\OneDrive\\Documents\\GitHub\\TheStone_NewAdventure\\Project\\TheStoneNewAdventure\\Source\\TheStoneNewAdventure.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TheStoneNewAdventureEditor",
+			"Path": "C:\\Users\\happl\\OneDrive\\Documents\\GitHub\\TheStone_NewAdventure\\Project\\TheStoneNewAdventure\\Source\\TheStoneNewAdventureEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,2 @@
+C:\Users\happl\OneDrive\Documents\GitHub\TheStone_NewAdventure\Project\TheStoneNewAdventure\Intermediate\Build\Win64\UE4Editor\Development\TheStoneNewAdventure\Definitions.TheStoneNewAdventure.h
+C:\Users\happl\OneDrive\Documents\GitHub\TheStone_NewAdventure\Project\TheStoneNewAdventure\Source\TheStoneNewAdventure\TheStoneNewAdventure.h

@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-TheStoneNewAdventure-0306.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\happl\OneDrive\Documents\GitHub\TheStone_NewAdventure\Project\TheStoneNewAdventure\Intermediate\Build\Win64\TheStoneNewAdventureEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\happl\OneDrive\Documents\GitHub\TheStone_NewAdventure\Project\TheStoneNewAdventure\Intermediate\Build\Win64\UE4Editor\Development\TheStoneNewAdventure\TheStoneNewAdventure.cpp.obj"
+"C:\Users\happl\OneDrive\Documents\GitHub\TheStone_NewAdventure\Project\TheStoneNewAdventure\Intermediate\Build\Win64\UE4Editor\Development\TheStoneNewAdventure\TheStoneNewAdventureGameModeBase.cpp.obj"
+"C:\Users\happl\OneDrive\Documents\GitHub\TheStone_NewAdventure\Project\TheStoneNewAdventure\Intermediate\Build\Win64\UE4Editor\Development\TheStoneNewAdventure\TheStoneNewAdventure.init.gen.cpp.obj"
+"C:\Users\happl\OneDrive\Documents\GitHub\TheStone_NewAdventure\Project\TheStoneNewAdventure\Intermediate\Build\Win64\UE4Editor\Development\TheStoneNewAdventure\TheStoneNewAdventureGameModeBase.gen.cpp.obj"
+"C:\Users\happl\OneDrive\Documents\GitHub\TheStone_NewAdventure\Project\TheStoneNewAdventure\Intermediate\Build\Win64\UE4Editor\Development\TheStoneNewAdventure\Default.rc2.res"
+/OUT:"C:\Users\happl\OneDrive\Documents\GitHub\TheStone_NewAdventure\Project\TheStoneNewAdventure\Intermediate\Build\Win64\UE4Editor\Development\TheStoneNewAdventure\UE4Editor-TheStoneNewAdventure-0306.lib"
+/INCLUDE:IMPLEMENT_MODULE_TheStoneNewAdventure
