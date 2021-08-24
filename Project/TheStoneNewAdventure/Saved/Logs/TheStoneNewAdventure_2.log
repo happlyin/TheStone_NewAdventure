@@ -1749,3 +1749,799 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.18-03.09.11:683][222]LogFileHelpers: Saving map 'StartMap' took 0.247
 [2021.08.18-03.09.11:694][222]AssetCheck: New page: 애셋 저장: StartMap
 [2021.08.18-03.09.11:694][222]LogContentValidation: Display: World /Game/Maps/StartMap.StartMap 유효성 검사
+[2021.08.18-03.16.33:028][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2021.08.18-03.16.34:127][428]LogSlate: Window '콘텐츠 저장' being destroyed
+[2021.08.18-03.16.34:196][428]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/TheStone_NewAdventure/Project/TheStoneNewAdventure/Saved/BP_PickCharacter1FB8591D423C786C1C2B91A141DA88A5.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/TheStone_NewAdventure/Project/TheStoneNewAdventure/Content/UI/BP_PickCharacter.uasset'
+[2021.08.18-03.16.34:216][428]AssetCheck: New page: 애셋 저장: BP_PickCharacter
+[2021.08.18-03.16.34:216][428]LogContentValidation: Display: WidgetBlueprint /Game/UI/BP_PickCharacter.BP_PickCharacter 유효성 검사
+[2021.08.18-03.16.38:832][697]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/BP_PickCharacter.BP_PickCharacter
+[2021.08.18-03.16.39:250][697]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0024 seconds. Added 125 classes and 0 folders.
+[2021.08.18-03.16.40:974][697]LogSlate: Took 0.000698 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.08.18-03.16.41:013][697]LogSlate: Took 0.000978 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.08.18-03.16.41:021][697]LogSlate: Took 0.007234 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicExtraBold.ttf' (4074K)
+[2021.08.18-03.20.51:741][477]LogSlate: Window 'BP_PickCharacter' being destroyed
+[2021.08.18-03.20.51:778][477]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.08.18-03.20.51:778][477]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.18-03.20.51:803][477]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.08.18-03.20.51:803][477]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.18-03.29.28:928][644]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.08.18-03.35.30:425][719]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.08.18-04.24.43:183][442]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2021.08.18-04.30.58:940][559]LogEditorViewport: Clicking on Actor (LMB): Blockout_Cylinder_C (Blockout_Cylinder58)
+[2021.08.18-04.32.58:053][763]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.08.18-04.38.57:862][304]LogActorFactory: Actor Factory created Cylinder
+[2021.08.18-04.38.58:684][330]LogActorFactory: Actor Factory created Cylinder
+[2021.08.18-04.39.14:814][977]LogEditorViewport: Clicking on Actor (LMB): Blockout_Cylinder_C (Blockout_Cylinder45)
+[2021.08.18-04.39.19:056][157]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2021.08.18-04.39.23:769][330]LogEditorViewport: Clicking on Actor (LMB): Blockout_Cylinder_C (Blockout_Cylinder45)
+[2021.08.18-04.39.26:980][438]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2021.08.18-04.40.07:396][997]Cmd: DELETE
+[2021.08.18-04.40.07:399][997]Cmd: ACTOR DELETE
+[2021.08.18-04.40.07:433][997]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.08.18-04.40.07:765][997]LogUObjectHash: Compacting FUObjectHashTables data took   8.61ms
+[2021.08.18-04.40.07:809][997]LogEditorActor: Deleted 1 Actors (0.410 secs)
+[2021.08.18-04.40.36:520][156]LogUObjectHash: Compacting FUObjectHashTables data took   7.78ms
+[2021.08.18-04.40.36:798][156]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/TheStone_NewAdventure/Project/TheStoneNewAdventure/Saved/StartMap_Auto0CC70491E4CF1AB6068160981BAE2B2BD.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/TheStone_NewAdventure/Project/TheStoneNewAdventure/Saved/Autosaves/Game/Maps/StartMap_Auto0.umap'
+[2021.08.18-04.40.36:800][156]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/StartMap' took 0.394
+[2021.08.18-04.40.36:800][156]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.394
+[2021.08.18-04.41.13:711][466]LogEditorViewport: Clicking on Actor (LMB): Blockout_Cylinder_C (Blockout_Cylinder83)
+[2021.08.18-04.54.58:953][317]LogEditorViewport: Clicking on Actor (LMB): Blockout_Cylinder_C (Blockout_Cylinder83)
+[2021.08.18-04.55.06:720][741]LogEditorViewport: Clicking on Actor (LMB): Blockout_Cylinder_C (Blockout_Cylinder88)
+[2021.08.18-05.43.20:755][760]LogHttp: Warning: 000001AC27F6CF00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE8CCC178-425F-C87D-7797-A8AB03FB9031%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=9de648bc40e94b670662499739886417%7C7fcd3065dbe74d018cef09b9f638d8fb%7Cc26a8d64-550b-49b3-9622-9e456636e0ea&AppEnvironment=datacollector-source&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.08.18-05.43.20:755][760]LogHttp: Warning: 000001AC27F6CF00: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2021.08.18-05.43.20:755][760]LogHttp: Warning: 000001AC27F6CF00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1abfa12bf70 [can pipeline])
+[2021.08.18-05.43.20:755][760]LogHttp: Warning: 000001AC27F6CF00: libcurl info message cache 1 (Re-using existing connection! (#436) with host datarouter.ol.epicgames.com)
+[2021.08.18-05.43.20:755][760]LogHttp: Warning: 000001AC27F6CF00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.232.101.84) port 443 (#436))
+[2021.08.18-05.43.20:755][760]LogHttp: Warning: 000001AC27F6CF00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2021.08.18-05.43.20:755][760]LogHttp: Warning: 000001AC27F6CF00: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2021.08.18-05.43.20:755][760]LogHttp: Warning: 000001AC27F6CF00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2021.08.18-05.43.20:755][760]LogHttp: Warning: 000001AC27F6CF00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2021.08.18-05.43.20:755][760]LogHttp: Warning: 000001AC27F6CF00: libcurl info message cache 7 (Closing connection 436)
+[2021.08.18-05.43.20:755][760]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE8CCC178-425F-C87D-7797-A8AB03FB9031%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=9de648bc40e94b670662499739886417%7C7fcd3065dbe74d018cef09b9f638d8fb%7Cc26a8d64-550b-49b3-9622-9e456636e0ea&AppEnvironment=datacollector-source&UploadType=eteventstream
+[2021.08.18-05.44.35:584][811]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\happl\OneDrive\Documents\GitHub\TheStone_NewAdventure\Project\BlenderFiles\MapObjects\Temple.fbx)
+[2021.08.18-05.44.35:620][811]LogFbx: Loading FBX Scene from C:\Users\happl\OneDrive\Documents\GitHub\TheStone_NewAdventure\Project\BlenderFiles\MapObjects\Temple.fbx
+[2021.08.18-05.44.35:630][811]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.18-05.44.37:512][811]LogSlate: Window 'FBX 임포트 옵션' being destroyed
+[2021.08.18-05.44.37:578][811]LogFbx: Display: Triangulating static mesh 실린더
+[2021.08.18-05.44.37:601][811]LogStaticMesh: Temple 스태틱 메시 빌드중...
+[2021.08.18-05.44.37:608][811]LogStaticMesh: Built static mesh [0.01s] /Game/Object_3D/Temple.Temple
+[2021.08.18-05.44.37:622][811]FBXImport: Warning: 이 FBX 씬에 스무딩 그룹 정보가 없습니다. FBX 익스포트 플러그인에서 파일을 익스포트하기 전, 'Export Smoothing Groups' (스무딩 그룹 익스포트)를 켰는지 확인해 주시기 바랍니다. 스무딩 그룹을 지원하지 않는 툴의 경우에도, 임포트시 버텍스 노멀을 제대로 유추할 수 있도록 FBX 익스포터가 익스포트시 적합한 스무딩 데이터를 생성해 줍니다. 
+[2021.08.18-05.44.39:755][898]LogActorFactory: Actor Factory created Temple
+[2021.08.18-05.44.40:393][928]LogActorFactory: Actor Factory created Temple
+[2021.08.18-05.45.41:661][121]LogEditorViewport: Clicking on Actor (LMB): Blockout_Cylinder_C (Blockout_Cylinder84)
+[2021.08.18-05.45.42:856][176]LogEditorViewport: Clicking Background
+[2021.08.18-05.45.45:604][320]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Temple)
+[2021.08.18-05.45.48:454][462]Cmd: SELECT NONE
+[2021.08.18-05.45.49:821][539]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Temple)
+[2021.08.18-05.45.51:087][599]Cmd: TRANSACTION UNDO
+[2021.08.18-05.45.51:087][599]LogEditorTransaction: Undo 액터 클릭
+[2021.08.18-05.45.51:668][617]Cmd: TRANSACTION UNDO
+[2021.08.18-05.45.51:668][617]LogEditorTransaction: Undo 선택 않음
+[2021.08.18-05.45.52:327][646]Cmd: TRANSACTION UNDO
+[2021.08.18-05.45.52:327][646]LogEditorTransaction: Undo 액터 클릭
+[2021.08.18-05.45.52:688][664]Cmd: TRANSACTION UNDO
+[2021.08.18-05.45.52:688][664]LogEditorTransaction: Undo 배경 클릭
+[2021.08.18-05.45.53:047][680]Cmd: TRANSACTION UNDO
+[2021.08.18-05.45.53:047][680]LogEditorTransaction: Undo 액터 클릭
+[2021.08.18-05.45.53:443][697]Cmd: TRANSACTION UNDO
+[2021.08.18-05.45.53:444][697]LogEditorTransaction: Undo 액터 이동
+[2021.08.18-05.45.53:812][714]Cmd: TRANSACTION UNDO
+[2021.08.18-05.45.53:812][714]LogEditorTransaction: Undo 액터 이동
+[2021.08.18-05.45.54:095][725]Cmd: TRANSACTION UNDO
+[2021.08.18-05.45.54:095][725]LogEditorTransaction: Undo 액터 이동
+[2021.08.18-05.45.56:783][857]Cmd: DELETE
+[2021.08.18-05.45.56:783][857]Cmd: ACTOR DELETE
+[2021.08.18-05.45.56:797][857]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.08.18-05.45.56:850][857]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2021.08.18-05.45.56:862][857]LogEditorActor: Deleted 1 Actors (0.079 secs)
+[2021.08.18-05.45.58:788][959]LogSlate: Window '메시지 로그' being destroyed
+[2021.08.18-05.45.58:798][959]LogSlate: Window '메시지 로그' being destroyed
+[2021.08.18-05.46.23:495][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.08.18-05.46.23:742][124]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/TheStone_NewAdventure/Project/TheStoneNewAdventure/Saved/StartMap_Auto15F81A6BB43624870545D53A8164159BF.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/TheStone_NewAdventure/Project/TheStoneNewAdventure/Saved/Autosaves/Game/Maps/StartMap_Auto1.umap'
+[2021.08.18-05.46.23:745][124]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/StartMap' took 0.280
+[2021.08.18-05.46.23:745][124]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.280
+[2021.08.18-05.46.23:746][124]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Object_3D/Temple] ([1] browsable assets)...
+[2021.08.18-05.46.23:763][124]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Object_3D/Temple.Temple]
+[2021.08.18-05.46.23:763][124]OBJ SavePackage: Finished generating thumbnails for package [/Game/Object_3D/Temple]
+[2021.08.18-05.46.23:784][124]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/TheStone_NewAdventure/Project/TheStoneNewAdventure/Saved/Temple_Auto10D991BC6480CA33A7959DAAC77B93B82.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/TheStone_NewAdventure/Project/TheStoneNewAdventure/Saved/Autosaves/Game/Object_3D/Temple_Auto1.uasset'
+[2021.08.18-05.46.23:788][124]LogFileHelpers: Auto-saving content packages took 0.043
+[2021.08.18-05.47.24:081][327]LogEditorFactories: Performing atomic reimport of [C:/Users/happl/OneDrive/Documents/GitHub/TheStone_NewAdventure/Project/BlenderFiles/MapObjects/Temple.fbx]
+[2021.08.18-05.47.24:119][327]LogFbx: Loading FBX Scene from C:/Users/happl/OneDrive/Documents/GitHub/TheStone_NewAdventure/Project/BlenderFiles/MapObjects/Temple.fbx
+[2021.08.18-05.47.24:125][327]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.18-05.47.24:130][327]LogFbx: Display: Triangulating static mesh 실린더
+[2021.08.18-05.47.24:157][327]LogStaticMesh: Temple 스태틱 메시 빌드중...
+[2021.08.18-05.47.24:162][327]LogStaticMesh: Built static mesh [0.01s] /Game/Object_3D/Temple.Temple
+[2021.08.18-05.47.24:175][327]LogEditorFactories: -- imported successfully
+[2021.08.18-05.47.24:178][327]FBXImport: Warning: 이 FBX 씬에 스무딩 그룹 정보가 없습니다. FBX 익스포트 플러그인에서 파일을 익스포트하기 전, 'Export Smoothing Groups' (스무딩 그룹 익스포트)를 켰는지 확인해 주시기 바랍니다. 스무딩 그룹을 지원하지 않는 툴의 경우에도, 임포트시 버텍스 노멀을 제대로 유추할 수 있도록 FBX 익스포터가 익스포트시 적합한 스무딩 데이터를 생성해 줍니다. 
+[2021.08.18-05.47.28:435][340]LogActorFactory: Actor Factory created Temple
+[2021.08.18-05.47.29:338][376]LogActorFactory: Actor Factory created Temple
+[2021.08.18-05.47.49:647][463]Cmd: DELETE
+[2021.08.18-05.47.49:647][463]Cmd: ACTOR DELETE
+[2021.08.18-05.47.49:654][463]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.08.18-05.47.49:679][463]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2021.08.18-05.47.49:683][463]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2021.08.18-05.51.27:893][123]LogEditorFactories: Performing atomic reimport of [C:/Users/happl/OneDrive/Documents/GitHub/TheStone_NewAdventure/Project/BlenderFiles/MapObjects/Temple.fbx]
+[2021.08.18-05.51.27:922][123]LogFbx: Loading FBX Scene from C:/Users/happl/OneDrive/Documents/GitHub/TheStone_NewAdventure/Project/BlenderFiles/MapObjects/Temple.fbx
+[2021.08.18-05.51.27:928][123]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.18-05.51.27:931][123]LogFbx: Display: Triangulating static mesh 실린더
+[2021.08.18-05.51.27:955][123]LogStaticMesh: Temple 스태틱 메시 빌드중...
+[2021.08.18-05.51.27:959][123]LogStaticMesh: Built static mesh [0.01s] /Game/Object_3D/Temple.Temple
+[2021.08.18-05.51.27:969][123]LogEditorFactories: -- imported successfully
+[2021.08.18-05.51.27:972][123]FBXImport: Warning: 이 FBX 씬에 스무딩 그룹 정보가 없습니다. FBX 익스포트 플러그인에서 파일을 익스포트하기 전, 'Export Smoothing Groups' (스무딩 그룹 익스포트)를 켰는지 확인해 주시기 바랍니다. 스무딩 그룹을 지원하지 않는 툴의 경우에도, 임포트시 버텍스 노멀을 제대로 유추할 수 있도록 FBX 익스포터가 익스포트시 적합한 스무딩 데이터를 생성해 줍니다. 
+[2021.08.18-05.51.30:138][133]LogActorFactory: Actor Factory created Temple
+[2021.08.18-05.51.31:958][230]LogActorFactory: Actor Factory created Temple
+[2021.08.18-05.52.10:578][261]Cmd: DELETE
+[2021.08.18-05.52.10:578][261]Cmd: ACTOR DELETE
+[2021.08.18-05.52.10:588][261]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.08.18-05.52.10:611][261]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2021.08.18-05.52.10:617][261]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2021.08.18-05.53.50:199][649]LogEditorFactories: Performing atomic reimport of [C:/Users/happl/OneDrive/Documents/GitHub/TheStone_NewAdventure/Project/BlenderFiles/MapObjects/Temple.fbx]
+[2021.08.18-05.53.50:236][649]LogFbx: Loading FBX Scene from C:/Users/happl/OneDrive/Documents/GitHub/TheStone_NewAdventure/Project/BlenderFiles/MapObjects/Temple.fbx
+[2021.08.18-05.53.50:242][649]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.18-05.53.50:246][649]LogFbx: Display: Triangulating static mesh 실린더
+[2021.08.18-05.53.50:272][649]LogStaticMesh: Temple 스태틱 메시 빌드중...
+[2021.08.18-05.53.50:277][649]LogStaticMesh: Built static mesh [0.01s] /Game/Object_3D/Temple.Temple
+[2021.08.18-05.53.50:289][649]LogEditorFactories: -- imported successfully
+[2021.08.18-05.53.50:292][649]FBXImport: Warning: 이 FBX 씬에 스무딩 그룹 정보가 없습니다. FBX 익스포트 플러그인에서 파일을 익스포트하기 전, 'Export Smoothing Groups' (스무딩 그룹 익스포트)를 켰는지 확인해 주시기 바랍니다. 스무딩 그룹을 지원하지 않는 툴의 경우에도, 임포트시 버텍스 노멀을 제대로 유추할 수 있도록 FBX 익스포터가 익스포트시 적합한 스무딩 데이터를 생성해 줍니다. 
+[2021.08.18-05.53.51:661][654]LogActorFactory: Actor Factory created Temple
+[2021.08.18-05.53.52:162][669]LogActorFactory: Actor Factory created Temple
+[2021.08.18-05.54.12:410][724]Cmd: DELETE
+[2021.08.18-05.54.12:411][724]Cmd: ACTOR DELETE
+[2021.08.18-05.54.12:421][724]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.08.18-05.54.12:462][724]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2021.08.18-05.54.12:469][724]LogEditorActor: Deleted 1 Actors (0.058 secs)
+[2021.08.18-05.55.12:783][ 94]LogEditorFactories: Performing atomic reimport of [C:/Users/happl/OneDrive/Documents/GitHub/TheStone_NewAdventure/Project/BlenderFiles/MapObjects/Temple.fbx]
+[2021.08.18-05.55.12:836][ 94]LogFbx: Loading FBX Scene from C:/Users/happl/OneDrive/Documents/GitHub/TheStone_NewAdventure/Project/BlenderFiles/MapObjects/Temple.fbx
+[2021.08.18-05.55.12:842][ 94]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.18-05.55.12:846][ 94]LogFbx: Display: Triangulating static mesh 실린더
+[2021.08.18-05.55.12:863][ 94]LogStaticMesh: Temple 스태틱 메시 빌드중...
+[2021.08.18-05.55.12:867][ 94]LogStaticMesh: Built static mesh [0.01s] /Game/Object_3D/Temple.Temple
+[2021.08.18-05.55.12:877][ 94]LogEditorFactories: -- imported successfully
+[2021.08.18-05.55.12:881][ 94]FBXImport: Warning: 이 FBX 씬에 스무딩 그룹 정보가 없습니다. FBX 익스포트 플러그인에서 파일을 익스포트하기 전, 'Export Smoothing Groups' (스무딩 그룹 익스포트)를 켰는지 확인해 주시기 바랍니다. 스무딩 그룹을 지원하지 않는 툴의 경우에도, 임포트시 버텍스 노멀을 제대로 유추할 수 있도록 FBX 익스포터가 익스포트시 적합한 스무딩 데이터를 생성해 줍니다. 
+[2021.08.18-05.55.15:201][103]LogActorFactory: Actor Factory created Temple
+[2021.08.18-05.55.16:260][149]LogActorFactory: Actor Factory created Temple
+[2021.08.18-05.55.44:867][657]Cmd: SELECT NONE
+[2021.08.18-05.55.45:886][710]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Temple)
+[2021.08.18-05.55.47:051][768]Cmd: DELETE
+[2021.08.18-05.55.47:051][768]Cmd: ACTOR DELETE
+[2021.08.18-05.55.47:072][768]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.08.18-05.55.47:104][768]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2021.08.18-05.55.47:110][768]LogEditorActor: Deleted 1 Actors (0.059 secs)
+[2021.08.18-05.56.24:264][940]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.08.18-05.56.24:476][940]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/TheStone_NewAdventure/Project/TheStoneNewAdventure/Saved/StartMap_Auto2E9EE17954C368A9D2D5F54857ED476F3.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/TheStone_NewAdventure/Project/TheStoneNewAdventure/Saved/Autosaves/Game/Maps/StartMap_Auto2.umap'
+[2021.08.18-05.56.24:478][940]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/StartMap' took 0.240
+[2021.08.18-05.56.24:478][940]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.240
+[2021.08.18-05.56.24:479][940]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Object_3D/Temple] ([1] browsable assets)...
+[2021.08.18-05.56.24:491][940]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Object_3D/Temple.Temple]
+[2021.08.18-05.56.24:491][940]OBJ SavePackage: Finished generating thumbnails for package [/Game/Object_3D/Temple]
+[2021.08.18-05.56.24:501][940]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/TheStone_NewAdventure/Project/TheStoneNewAdventure/Saved/Temple_Auto2522B485543C6DA675279B2A6E6BA640F.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/TheStone_NewAdventure/Project/TheStoneNewAdventure/Saved/Autosaves/Game/Object_3D/Temple_Auto2.uasset'
+[2021.08.18-05.56.24:502][940]LogFileHelpers: Auto-saving content packages took 0.024
+[2021.08.18-05.56.41:609][ 23]LogEditorFactories: Performing atomic reimport of [C:/Users/happl/OneDrive/Documents/GitHub/TheStone_NewAdventure/Project/BlenderFiles/MapObjects/Temple.fbx]
+[2021.08.18-05.56.41:653][ 23]LogFbx: Loading FBX Scene from C:/Users/happl/OneDrive/Documents/GitHub/TheStone_NewAdventure/Project/BlenderFiles/MapObjects/Temple.fbx
+[2021.08.18-05.56.41:659][ 23]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.18-05.56.41:662][ 23]LogFbx: Display: Triangulating static mesh 실린더
+[2021.08.18-05.56.41:686][ 23]LogStaticMesh: Temple 스태틱 메시 빌드중...
+[2021.08.18-05.56.41:691][ 23]LogStaticMesh: Built static mesh [0.00s] /Game/Object_3D/Temple.Temple
+[2021.08.18-05.56.41:700][ 23]LogEditorFactories: -- imported successfully
+[2021.08.18-05.56.41:703][ 23]FBXImport: Warning: 이 FBX 씬에 스무딩 그룹 정보가 없습니다. FBX 익스포트 플러그인에서 파일을 익스포트하기 전, 'Export Smoothing Groups' (스무딩 그룹 익스포트)를 켰는지 확인해 주시기 바랍니다. 스무딩 그룹을 지원하지 않는 툴의 경우에도, 임포트시 버텍스 노멀을 제대로 유추할 수 있도록 FBX 익스포터가 익스포트시 적합한 스무딩 데이터를 생성해 줍니다. 
+[2021.08.18-05.56.43:304][ 28]LogActorFactory: Actor Factory created Temple
+[2021.08.18-05.56.44:121][ 71]LogActorFactory: Actor Factory created Temple
+[2021.08.18-05.56.58:861][859]LogEditorViewport: Clicking on Actor (LMB): Blockout_Cylinder_C (Blockout_Cylinder82)
+[2021.08.18-05.57.09:418][416]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Temple)
+[2021.08.18-05.57.16:907][776]LogEditorViewport: Clicking on Actor (LMB): Blockout_Cylinder_C (Blockout_Cylinder82)
+[2021.08.18-05.57.20:780][972]LogEditorViewport: Clicking on Actor (LMB): Blockout_Cylinder_C (Blockout_Cylinder82)
+[2021.08.18-05.57.24:441][167]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Temple)
+[2021.08.18-05.57.34:485][655]LogEditorViewport: Clicking on Actor (LMB): Blockout_Cylinder_C (Blockout_Cylinder81)
+[2021.08.18-05.57.36:637][769]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Temple)
+[2021.08.18-05.57.42:720][ 63]Cmd: DELETE
+[2021.08.18-05.57.42:720][ 63]Cmd: ACTOR DELETE
+[2021.08.18-05.57.42:729][ 63]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.08.18-05.57.42:761][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2021.08.18-05.57.42:768][ 63]LogEditorActor: Deleted 1 Actors (0.048 secs)
+[2021.08.18-05.58.51:455][359]LogEditorFactories: Performing atomic reimport of [C:/Users/happl/OneDrive/Documents/GitHub/TheStone_NewAdventure/Project/BlenderFiles/MapObjects/Temple.fbx]
+[2021.08.18-05.58.51:487][359]LogFbx: Loading FBX Scene from C:/Users/happl/OneDrive/Documents/GitHub/TheStone_NewAdventure/Project/BlenderFiles/MapObjects/Temple.fbx
+[2021.08.18-05.58.51:493][359]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.18-05.58.51:494][359]LogFbx: Display: Triangulating static mesh 실린더
+[2021.08.18-05.58.51:521][359]LogStaticMesh: Temple 스태틱 메시 빌드중...
+[2021.08.18-05.58.51:525][359]LogStaticMesh: Built static mesh [0.00s] /Game/Object_3D/Temple.Temple
+[2021.08.18-05.58.51:534][359]LogEditorFactories: -- imported successfully
+[2021.08.18-05.58.51:536][359]FBXImport: Warning: 이 FBX 씬에 스무딩 그룹 정보가 없습니다. FBX 익스포트 플러그인에서 파일을 익스포트하기 전, 'Export Smoothing Groups' (스무딩 그룹 익스포트)를 켰는지 확인해 주시기 바랍니다. 스무딩 그룹을 지원하지 않는 툴의 경우에도, 임포트시 버텍스 노멀을 제대로 유추할 수 있도록 FBX 익스포터가 익스포트시 적합한 스무딩 데이터를 생성해 줍니다. 
+[2021.08.18-05.58.52:823][363]LogActorFactory: Actor Factory created Temple
+[2021.08.18-05.58.54:225][432]LogActorFactory: Actor Factory created Temple
+[2021.08.18-05.59.12:663][418]LogEditorViewport: Clicking on Actor (LMB): Blockout_Cylinder_C (Blockout_Cylinder82)
+[2021.08.18-05.59.16:336][608]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Temple)
+[2021.08.18-05.59.48:621][291]Cmd: DELETE
+[2021.08.18-05.59.48:621][291]Cmd: ACTOR DELETE
+[2021.08.18-05.59.48:631][291]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.08.18-05.59.48:657][291]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2021.08.18-05.59.48:665][291]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2021.08.18-06.01.11:528][699]LogEditorFactories: Performing atomic reimport of [C:/Users/happl/OneDrive/Documents/GitHub/TheStone_NewAdventure/Project/BlenderFiles/MapObjects/Temple.fbx]
+[2021.08.18-06.01.11:569][699]LogFbx: Loading FBX Scene from C:/Users/happl/OneDrive/Documents/GitHub/TheStone_NewAdventure/Project/BlenderFiles/MapObjects/Temple.fbx
+[2021.08.18-06.01.11:575][699]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.18-06.01.11:579][699]LogFbx: Display: Triangulating static mesh 실린더
+[2021.08.18-06.01.11:604][699]LogStaticMesh: Temple 스태틱 메시 빌드중...
+[2021.08.18-06.01.11:609][699]LogStaticMesh: Built static mesh [0.01s] /Game/Object_3D/Temple.Temple
+[2021.08.18-06.01.11:620][699]LogEditorFactories: -- imported successfully
+[2021.08.18-06.01.11:623][699]FBXImport: Warning: 이 FBX 씬에 스무딩 그룹 정보가 없습니다. FBX 익스포트 플러그인에서 파일을 익스포트하기 전, 'Export Smoothing Groups' (스무딩 그룹 익스포트)를 켰는지 확인해 주시기 바랍니다. 스무딩 그룹을 지원하지 않는 툴의 경우에도, 임포트시 버텍스 노멀을 제대로 유추할 수 있도록 FBX 익스포터가 익스포트시 적합한 스무딩 데이터를 생성해 줍니다. 
+[2021.08.18-06.01.12:685][707]LogActorFactory: Actor Factory created Temple
+[2021.08.18-06.01.13:697][762]LogActorFactory: Actor Factory created Temple
+[2021.08.18-06.01.42:445][273]LogEditorViewport: Clicking on Actor (LMB): Blockout_Cylinder_C (Blockout_Cylinder82)
+[2021.08.18-06.01.45:431][432]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Temple)
+[2021.08.18-06.03.15:584][ 57]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2021.08.18-06.03.40:722][333]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Temple)
+[2021.08.18-06.04.37:665][238]LogEditorViewport: Clicking on Actor (LMB): Blockout_Cylinder_C (Blockout_Cylinder86)
+[2021.08.18-06.04.42:217][460]LogEditorViewport: Clicking on Actor (LMB): Blockout_Cylinder_C (Blockout_Cylinder86)
+[2021.08.18-06.04.43:465][525]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Temple)
+[2021.08.18-06.04.49:059][765]LogEditorViewport: Clicking on Actor (LMB): Blockout_Cylinder_C (Blockout_Cylinder86)
+[2021.08.18-06.04.50:348][834]LogEditorViewport: Clicking on Actor (LMB): Blockout_Cylinder_C (Blockout_Cylinder86)
+[2021.08.18-06.04.50:898][861]LogEditorViewport: Clicking on Actor (LMB): Blockout_Cylinder_C (Blockout_Cylinder86)
+[2021.08.18-06.04.53:257][991]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Temple)
+[2021.08.18-06.05.55:283][235]LogEditorViewport: Clicking on Actor (LMB): Blockout_Box_C (Blockout_Box8)
+[2021.08.18-06.06.43:601][631]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2021.08.18-06.06.45:434][631]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/TheStone_NewAdventure/Project/TheStoneNewAdventure/Saved/StartMap_Auto3CFE5A6094D76AB5AE0C06CBC4D12F71B.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/TheStone_NewAdventure/Project/TheStoneNewAdventure/Saved/Autosaves/Game/Maps/StartMap_Auto3.umap'
+[2021.08.18-06.06.45:437][631]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/StartMap' took 1.978
+[2021.08.18-06.06.45:437][631]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.978
+[2021.08.18-06.06.45:437][631]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Object_3D/Temple] ([1] browsable assets)...
+[2021.08.18-06.06.45:454][631]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Object_3D/Temple.Temple]
+[2021.08.18-06.06.45:454][631]OBJ SavePackage: Finished generating thumbnails for package [/Game/Object_3D/Temple]
+[2021.08.18-06.06.45:552][631]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/TheStone_NewAdventure/Project/TheStoneNewAdventure/Saved/Temple_Auto30CFFB1E14FEB33C5DD0F58A47D4833AC.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/TheStone_NewAdventure/Project/TheStoneNewAdventure/Saved/Autosaves/Game/Object_3D/Temple_Auto3.uasset'
+[2021.08.18-06.06.45:637][631]LogFileHelpers: Auto-saving content packages took 0.200
+[2021.08.18-06.07.57:707][864]LogEditorFactories: Performing atomic reimport of [C:/Users/happl/OneDrive/Documents/GitHub/TheStone_NewAdventure/Project/BlenderFiles/MapObjects/Temple.fbx]
+[2021.08.18-06.07.57:738][864]LogFbx: Loading FBX Scene from C:/Users/happl/OneDrive/Documents/GitHub/TheStone_NewAdventure/Project/BlenderFiles/MapObjects/Temple.fbx
+[2021.08.18-06.07.57:745][864]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.18-06.07.57:748][864]LogFbx: Display: Triangulating static mesh 실린더
+[2021.08.18-06.07.57:774][864]LogStaticMesh: Temple 스태틱 메시 빌드중...
+[2021.08.18-06.07.57:778][864]LogStaticMesh: Built static mesh [0.00s] /Game/Object_3D/Temple.Temple
+[2021.08.18-06.07.57:788][864]LogEditorFactories: -- imported successfully
+[2021.08.18-06.07.57:791][864]FBXImport: Warning: 이 FBX 씬에 스무딩 그룹 정보가 없습니다. FBX 익스포트 플러그인에서 파일을 익스포트하기 전, 'Export Smoothing Groups' (스무딩 그룹 익스포트)를 켰는지 확인해 주시기 바랍니다. 스무딩 그룹을 지원하지 않는 툴의 경우에도, 임포트시 버텍스 노멀을 제대로 유추할 수 있도록 FBX 익스포터가 익스포트시 적합한 스무딩 데이터를 생성해 줍니다. 
+[2021.08.18-06.08.56:456][828]LogEditorFactories: Performing atomic reimport of [C:/Users/happl/OneDrive/Documents/GitHub/TheStone_NewAdventure/Project/BlenderFiles/MapObjects/Temple.fbx]
+[2021.08.18-06.08.56:490][828]LogFbx: Loading FBX Scene from C:/Users/happl/OneDrive/Documents/GitHub/TheStone_NewAdventure/Project/BlenderFiles/MapObjects/Temple.fbx
+[2021.08.18-06.08.56:496][828]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.18-06.08.56:499][828]LogFbx: Display: Triangulating static mesh 실린더
+[2021.08.18-06.08.56:518][828]LogStaticMesh: Temple 스태틱 메시 빌드중...
+[2021.08.18-06.08.56:522][828]LogStaticMesh: Built static mesh [0.00s] /Game/Object_3D/Temple.Temple
+[2021.08.18-06.08.56:530][828]LogEditorFactories: -- imported successfully
+[2021.08.18-06.08.56:533][828]FBXImport: Warning: 이 FBX 씬에 스무딩 그룹 정보가 없습니다. FBX 익스포트 플러그인에서 파일을 익스포트하기 전, 'Export Smoothing Groups' (스무딩 그룹 익스포트)를 켰는지 확인해 주시기 바랍니다. 스무딩 그룹을 지원하지 않는 툴의 경우에도, 임포트시 버텍스 노멀을 제대로 유추할 수 있도록 FBX 익스포터가 익스포트시 적합한 스무딩 데이터를 생성해 줍니다. 
+[2021.08.18-06.09.34:186][528]LogEditorFactories: Performing atomic reimport of [C:/Users/happl/OneDrive/Documents/GitHub/TheStone_NewAdventure/Project/BlenderFiles/MapObjects/Temple.fbx]
+[2021.08.18-06.09.34:216][528]LogFbx: Loading FBX Scene from C:/Users/happl/OneDrive/Documents/GitHub/TheStone_NewAdventure/Project/BlenderFiles/MapObjects/Temple.fbx
+[2021.08.18-06.09.34:222][528]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.18-06.09.34:225][528]LogFbx: Display: Triangulating static mesh 실린더
+[2021.08.18-06.09.34:249][528]LogStaticMesh: Temple 스태틱 메시 빌드중...
+[2021.08.18-06.09.34:253][528]LogStaticMesh: Built static mesh [0.00s] /Game/Object_3D/Temple.Temple
+[2021.08.18-06.09.34:262][528]LogEditorFactories: -- imported successfully
+[2021.08.18-06.09.34:265][528]FBXImport: Warning: 이 FBX 씬에 스무딩 그룹 정보가 없습니다. FBX 익스포트 플러그인에서 파일을 익스포트하기 전, 'Export Smoothing Groups' (스무딩 그룹 익스포트)를 켰는지 확인해 주시기 바랍니다. 스무딩 그룹을 지원하지 않는 툴의 경우에도, 임포트시 버텍스 노멀을 제대로 유추할 수 있도록 FBX 익스포터가 익스포트시 적합한 스무딩 데이터를 생성해 줍니다. 
+[2021.08.18-06.10.28:288][561]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Temple)
+[2021.08.18-06.14.15:821][554]LogEditorViewport: Clicking on Actor (LMB): Blockout_Cylinder_C (Blockout_Cylinder84)
+[2021.08.18-06.14.37:185][716]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Temple)
+[2021.08.18-06.15.01:602][743]LogEditorViewport: Clicking on Actor (LMB): Blockout_Cylinder_C (Blockout_Cylinder84)
+[2021.08.18-06.15.06:367][958]LogEditorViewport: Clicking on Actor (LMB): Blockout_Cylinder_C (Blockout_Cylinder80)
+[2021.08.18-06.15.44:643][437]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Temple)
+[2021.08.18-06.15.52:482][777]LogEditorViewport: Clicking Background
+[2021.08.18-06.16.46:170][582]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2021.08.18-06.16.46:402][582]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/TheStone_NewAdventure/Project/TheStoneNewAdventure/Saved/StartMap_Auto46138D5F149F8DD1B63E88991BE719382.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/TheStone_NewAdventure/Project/TheStoneNewAdventure/Saved/Autosaves/Game/Maps/StartMap_Auto4.umap'
+[2021.08.18-06.16.46:404][582]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/StartMap' took 0.269
+[2021.08.18-06.16.46:404][582]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.269
+[2021.08.18-06.16.46:405][582]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Object_3D/Temple] ([1] browsable assets)...
+[2021.08.18-06.16.46:428][582]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Object_3D/Temple.Temple]
+[2021.08.18-06.16.46:429][582]OBJ SavePackage: Finished generating thumbnails for package [/Game/Object_3D/Temple]
+[2021.08.18-06.16.46:445][582]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/TheStone_NewAdventure/Project/TheStoneNewAdventure/Saved/Temple_Auto443C1C8E84E52F539242C309AB29AE8CB.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/TheStone_NewAdventure/Project/TheStoneNewAdventure/Saved/Autosaves/Game/Object_3D/Temple_Auto4.uasset'
+[2021.08.18-06.16.46:447][582]LogFileHelpers: Auto-saving content packages took 0.043
+[2021.08.18-06.41.16:853][325]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/BP_PickCharacter.BP_PickCharacter
+[2021.08.18-06.42.52:132][699]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2021.08.18-06.42.52:141][699]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/StartMap' took 0.051
+[2021.08.18-06.42.52:146][699]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/BP_PickCharacter] ([1] browsable assets)...
+[2021.08.18-06.42.52:147][699]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/BP_PickCharacter]
+[2021.08.18-06.42.52:161][699]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/TheStone_NewAdventure/Project/TheStoneNewAdventure/Saved/BP_PickCharacter_Auto50EB5EB9747FFC9BAC41D68A11F9BC8BB.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/TheStone_NewAdventure/Project/TheStoneNewAdventure/Saved/Autosaves/Game/UI/BP_PickCharacter_Auto5.uasset'
+[2021.08.18-06.42.52:163][699]LogFileHelpers: Auto-saving content packages took 0.022
+[2021.08.18-06.48.32:949][940]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.08.18-06.48.44:575][974]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2021.08.18-06.52.52:663][713]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2021.08.18-06.52.52:667][713]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/StartMap' took 0.048
+[2021.08.18-06.52.52:668][713]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/BP_PickCharacter] ([1] browsable assets)...
+[2021.08.18-06.52.52:668][713]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/BP_PickCharacter]
+[2021.08.18-06.52.52:689][713]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/TheStone_NewAdventure/Project/TheStoneNewAdventure/Saved/BP_PickCharacter_Auto68EFA803C4771FC87FE8525AE481B0726.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/TheStone_NewAdventure/Project/TheStoneNewAdventure/Saved/Autosaves/Game/UI/BP_PickCharacter_Auto6.uasset'
+[2021.08.18-06.52.52:691][713]LogFileHelpers: Auto-saving content packages took 0.024
+[2021.08.18-06.59.03:018][837]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\happl\OneDrive\Documents\GitHub\TheStone_NewAdventure\Project\BlenderFiles\MapObjects\Temple.fbx)
+[2021.08.18-06.59.03:031][837]LogFbx: Loading FBX Scene from C:\Users\happl\OneDrive\Documents\GitHub\TheStone_NewAdventure\Project\BlenderFiles\MapObjects\Temple.fbx
+[2021.08.18-06.59.03:037][837]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.18-06.59.13:720][837]LogSlate: Window 'FBX 임포트 옵션' being destroyed
+[2021.08.18-06.59.23:037][108]LogEditorFactories: Performing atomic reimport of [C:/Users/happl/OneDrive/Documents/GitHub/TheStone_NewAdventure/Project/BlenderFiles/MapObjects/Temple.fbx]
+[2021.08.18-06.59.23:067][108]LogFbx: Loading FBX Scene from C:/Users/happl/OneDrive/Documents/GitHub/TheStone_NewAdventure/Project/BlenderFiles/MapObjects/Temple.fbx
+[2021.08.18-06.59.23:074][108]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.18-06.59.23:077][108]LogFbx: Display: Triangulating static mesh 실린더
+[2021.08.18-06.59.23:100][108]LogStaticMesh: Temple 스태틱 메시 빌드중...
+[2021.08.18-06.59.23:107][108]LogStaticMesh: Built static mesh [0.01s] /Game/Object_3D/Temple.Temple
+[2021.08.18-06.59.23:120][108]LogEditorFactories: -- imported successfully
+[2021.08.18-06.59.23:122][108]FBXImport: Warning: 이 FBX 씬에 스무딩 그룹 정보가 없습니다. FBX 익스포트 플러그인에서 파일을 익스포트하기 전, 'Export Smoothing Groups' (스무딩 그룹 익스포트)를 켰는지 확인해 주시기 바랍니다. 스무딩 그룹을 지원하지 않는 툴의 경우에도, 임포트시 버텍스 노멀을 제대로 유추할 수 있도록 FBX 익스포터가 익스포트시 적합한 스무딩 데이터를 생성해 줍니다. 
+[2021.08.18-06.59.40:861][924]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Temple)
+[2021.08.18-06.59.41:803][966]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Temple)
+[2021.08.18-07.02.50:795][254]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2021.08.18-07.02.51:024][254]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/TheStone_NewAdventure/Project/TheStoneNewAdventure/Saved/StartMap_Auto715B6BBA5416C1D07032E0A8AA826F01C.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/TheStone_NewAdventure/Project/TheStoneNewAdventure/Saved/Autosaves/Game/Maps/StartMap_Auto7.umap'
+[2021.08.18-07.02.51:027][254]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/StartMap' took 0.265
+[2021.08.18-07.02.51:027][254]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.265
+[2021.08.18-07.02.51:027][254]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Object_3D/Temple] ([1] browsable assets)...
+[2021.08.18-07.02.51:036][254]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Object_3D/Temple.Temple]
+[2021.08.18-07.02.51:036][254]OBJ SavePackage: Finished generating thumbnails for package [/Game/Object_3D/Temple]
+[2021.08.18-07.02.51:050][254]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/TheStone_NewAdventure/Project/TheStoneNewAdventure/Saved/Temple_Auto71231D48D4FAAC775756F16B219C48D33.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/TheStone_NewAdventure/Project/TheStoneNewAdventure/Saved/Autosaves/Game/Object_3D/Temple_Auto7.uasset'
+[2021.08.18-07.02.51:051][254]LogFileHelpers: Auto-saving content packages took 0.025
+[2021.08.18-07.03.01:835][624]LogEditorViewport: Clicking on Actor (LMB): Blockout_Box_C (Blockout_Box8)
+[2021.08.18-07.39.36:307][452]LogRenderer: Reallocating scene render targets to support 1120x660 Format 10 NumSamples 1 (Frame:435402).
+[2021.08.18-07.42.07:895][904]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{3eb23f38-e2b7-4bba-9287-71667334ac0e}.
+[2021.08.18-07.42.07:895][904]LogTemp: Resetting audio stream to device id 
+[2021.08.18-07.42.08:346][904]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.18-07.42.08:346][904]LogAudioMixer: Display: 1: FrontRight
+[2021.08.18-07.42.09:834][909]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{046cc6de-b28f-43e3-9596-e94d1cd16cbe}.
+[2021.08.18-07.42.09:834][909]LogTemp: Resetting audio stream to device id 
+[2021.08.18-07.42.10:618][909]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.18-07.42.10:618][909]LogAudioMixer: Display: 1: FrontRight
+[2021.08.18-07.42.10:772][910]LogTemp: Resetting audio stream to device id 
+[2021.08.18-07.42.10:814][910]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.18-07.42.10:814][910]LogAudioMixer: Display: 1: FrontRight
+[2021.08.18-07.44.35:626][339]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{3eb23f38-e2b7-4bba-9287-71667334ac0e}.
+[2021.08.18-07.44.35:626][339]LogTemp: Resetting audio stream to device id 
+[2021.08.18-07.44.36:550][339]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.18-07.44.36:550][339]LogAudioMixer: Display: 1: FrontRight
+[2021.08.18-07.44.36:718][340]LogTemp: Resetting audio stream to device id 
+[2021.08.18-07.44.36:768][340]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.18-07.44.36:769][340]LogAudioMixer: Display: 1: FrontRight
+[2021.08.18-07.45.08:695][435]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{3eb23f38-e2b7-4bba-9287-71667334ac0e}.
+[2021.08.18-07.45.08:695][435]LogTemp: Resetting audio stream to device id 
+[2021.08.18-07.45.08:729][435]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.18-07.45.08:729][435]LogAudioMixer: Display: 1: FrontRight
+[2021.08.18-07.45.10:389][440]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{046cc6de-b28f-43e3-9596-e94d1cd16cbe}.
+[2021.08.18-07.45.10:389][440]LogTemp: Resetting audio stream to device id 
+[2021.08.18-07.45.10:915][440]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.18-07.45.10:915][440]LogAudioMixer: Display: 1: FrontRight
+[2021.08.18-07.45.36:336][516]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{3eb23f38-e2b7-4bba-9287-71667334ac0e}.
+[2021.08.18-07.45.36:336][516]LogTemp: Resetting audio stream to device id 
+[2021.08.18-07.45.36:710][516]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.18-07.45.36:710][516]LogAudioMixer: Display: 1: FrontRight
+[2021.08.18-07.45.49:224][554]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{046cc6de-b28f-43e3-9596-e94d1cd16cbe}.
+[2021.08.18-07.45.49:224][554]LogTemp: Resetting audio stream to device id 
+[2021.08.18-07.45.49:972][554]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.18-07.45.49:972][554]LogAudioMixer: Display: 1: FrontRight
+[2021.08.18-07.46.55:690][803]BlueprintLog: New page: BP_PickCharacter 컴파일
+[2021.08.18-07.46.55:730][803]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2021.08.18-07.46.56:356][827]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/TheStone_NewAdventure/Project/TheStoneNewAdventure/Saved/BP_PickCharacter569369F042CC3B67D18D349200618965.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/TheStone_NewAdventure/Project/TheStoneNewAdventure/Content/UI/BP_PickCharacter.uasset'
+[2021.08.18-07.46.56:371][827]AssetCheck: New page: 애셋 저장: BP_PickCharacter
+[2021.08.18-07.46.56:371][827]LogContentValidation: Display: WidgetBlueprint /Game/UI/BP_PickCharacter.BP_PickCharacter 유효성 검사
+[2021.08.18-07.46.57:389][885]LogSlate: Window 'BP_PickCharacter' being destroyed
+[2021.08.18-07.46.57:396][885]LogSlate: Window 'BP_PickCharacter' being destroyed
+[2021.08.18-07.46.57:399][885]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.08.18-07.46.57:399][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.18-07.46.57:422][885]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.08.18-07.46.57:422][885]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.18-07.47.00:448][156]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2021.08.18-07.47.01:640][156]LogSlate: Window '콘텐츠 저장' being destroyed
+[2021.08.18-07.47.01:699][156]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2021.08.18-07.47.01:924][156]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/TheStone_NewAdventure/Project/TheStoneNewAdventure/Saved/StartMap099FA4E04FF5DA42B1C9EEB90268C9C3.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/TheStone_NewAdventure/Project/TheStoneNewAdventure/Content/Maps/StartMap.umap'
+[2021.08.18-07.47.01:947][156]LogFileHelpers: Saving map 'StartMap' took 0.272
+[2021.08.18-07.47.01:953][156]LogSavePackage: Moving '../../../../../../Users/happl/OneDrive/Documents/GitHub/TheStone_NewAdventure/Project/TheStoneNewAdventure/Saved/Temple540709E247216ECFE552559CBA3E571F.tmp' to '../../../../../../Users/happl/OneDrive/Documents/GitHub/TheStone_NewAdventure/Project/TheStoneNewAdventure/Content/Object_3D/Temple.uasset'
+[2021.08.18-07.47.01:999][156]LogSlate: Window 'TheStoneNewAdventure - 언리얼 에디터' being destroyed
+[2021.08.18-07.47.02:020][156]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2021.08.18-07.47.02:518][156]AssetCheck: New page: 애셋 저장: 애셋이 다수입니다.
+[2021.08.18-07.47.02:518][156]LogContentValidation: Display: World /Game/Maps/StartMap.StartMap 유효성 검사
+[2021.08.18-07.47.02:518][156]LogContentValidation: Display: StaticMesh /Game/Object_3D/Temple.Temple 유효성 검사
+[2021.08.18-07.47.02:540][157]Cmd: QUIT_EDITOR
+[2021.08.18-07.47.02:540][157]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2021.08.18-07.47.02:593][157]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.08.18-07.47.02:695][157]LogExit: Preparing to exit.
+[2021.08.18-07.47.03:325][157]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.08.18-07.47.03:328][157]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.08.18-07.47.03:330][157]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.08.18-07.47.03:423][157]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.08.18-07.47.03:467][157]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.08.18-07.47.03:468][157]LogExit: Editor shut down
+[2021.08.18-07.47.03:470][157]LogExit: Transaction tracking system shut down
+[2021.08.18-07.47.04:403][157]LogAISub: UAISubsystem::~UAISubsystem AISubsystem (000001ABB4D7B940), frame # 663157
+[2021.08.18-07.47.04:403][157]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001ABB4D75D00), frame # 663157
+[2021.08.18-07.47.04:405][157]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001ABB4DD1E00), frame # 663157
+[2021.08.18-07.47.04:541][157]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001ABAC31C7C0), frame # 663157
+[2021.08.18-07.47.04:541][157]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001ABF037B800), frame # 663157
+[2021.08.18-07.47.04:775][157]LogExit: Object subsystem successfully closed.
+[2021.08.18-07.47.04:825][157]LogShaderCompilers: Display: Shaders left to compile 0
+[2021.08.18-07.47.04:991][157]LogModuleManager: Shutting down and abandoning module SequencerWidgets (802)
+[2021.08.18-07.47.04:991][157]LogModuleManager: Shutting down and abandoning module BlueprintGraph (800)
+[2021.08.18-07.47.04:991][157]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (798)
+[2021.08.18-07.47.04:991][157]LogModuleManager: Shutting down and abandoning module SceneOutliner (796)
+[2021.08.18-07.47.04:991][157]LogModuleManager: Shutting down and abandoning module AddContentDialog (794)
+[2021.08.18-07.47.04:997][157]LogModuleManager: Shutting down and abandoning module WidgetCarousel (793)
+[2021.08.18-07.47.04:997][157]LogModuleManager: Shutting down and abandoning module EditorWidgets (790)
+[2021.08.18-07.47.04:997][157]LogModuleManager: Shutting down and abandoning module CollectionManager (788)
+[2021.08.18-07.47.04:998][157]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (786)
+[2021.08.18-07.47.04:999][157]LogModuleManager: Shutting down and abandoning module StatsViewer (784)
+[2021.08.18-07.47.04:999][157]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (782)
+[2021.08.18-07.47.04:999][157]LogModuleManager: Shutting down and abandoning module FoliageEdit (780)
+[2021.08.18-07.47.05:000][157]LogModuleManager: Shutting down and abandoning module LandscapeEditor (778)
+[2021.08.18-07.47.05:002][157]LogModuleManager: Shutting down and abandoning module MeshPaintMode (776)
+[2021.08.18-07.47.05:003][157]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (774)
+[2021.08.18-07.47.05:003][157]LogModuleManager: Shutting down and abandoning module ActorPickerMode (772)
+[2021.08.18-07.47.05:003][157]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (770)
+[2021.08.18-07.47.05:006][157]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (768)
+[2021.08.18-07.47.05:007][157]LogModuleManager: Shutting down and abandoning module AutomationWorker (766)
+[2021.08.18-07.47.05:008][157]LogModuleManager: Shutting down and abandoning module SteamVREditor (764)
+[2021.08.18-07.47.05:008][157]LogModuleManager: Shutting down and abandoning module OculusMR (762)
+[2021.08.18-07.47.05:008][157]LogModuleManager: Shutting down and abandoning module GooglePADEditor (760)
+[2021.08.18-07.47.05:008][157]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (758)
+[2021.08.18-07.47.05:008][157]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (756)
+[2021.08.18-07.47.05:009][157]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (754)
+[2021.08.18-07.47.05:010][157]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (752)
+[2021.08.18-07.47.05:011][157]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (750)
+[2021.08.18-07.47.05:012][157]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (748)
+[2021.08.18-07.47.05:012][157]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (746)
+[2021.08.18-07.47.05:012][157]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (744)
+[2021.08.18-07.47.05:012][157]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (742)
+[2021.08.18-07.47.05:012][157]LogModuleManager: Shutting down and abandoning module WebMMedia (740)
+[2021.08.18-07.47.05:013][157]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (738)
+[2021.08.18-07.47.05:014][157]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (736)
+[2021.08.18-07.47.05:015][157]LogModuleManager: Shutting down and abandoning module SequenceRecorder (735)
+[2021.08.18-07.47.05:015][157]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (732)
+[2021.08.18-07.47.05:016][157]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (730)
+[2021.08.18-07.47.05:016][157]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (728)
+[2021.08.18-07.47.05:016][157]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (726)
+[2021.08.18-07.47.05:016][157]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (724)
+[2021.08.18-07.47.05:016][157]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (722)
+[2021.08.18-07.47.05:016][157]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (720)
+[2021.08.18-07.47.05:016][157]LogModuleManager: Shutting down and abandoning module BlockoutToolsEditorPlugin (718)
+[2021.08.18-07.47.05:016][157]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (716)
+[2021.08.18-07.47.05:016][157]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (714)
+[2021.08.18-07.47.05:016][157]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (712)
+[2021.08.18-07.47.05:016][157]LogModuleManager: Shutting down and abandoning module PlanarCut (710)
+[2021.08.18-07.47.05:016][157]LogModuleManager: Shutting down and abandoning module CharacterAI (708)
+[2021.08.18-07.47.05:016][157]LogModuleManager: Shutting down and abandoning module TextureAlignMode (706)
+[2021.08.18-07.47.05:016][157]LogModuleManager: Shutting down and abandoning module BspMode (704)
+[2021.08.18-07.47.05:016][157]LogModuleManager: Shutting down and abandoning module PlacementMode (703)
+[2021.08.18-07.47.05:017][157]LogModuleManager: Shutting down and abandoning module GeometryMode (700)
+[2021.08.18-07.47.05:017][157]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (698)
+[2021.08.18-07.47.05:017][157]LogModuleManager: Shutting down and abandoning module SmartSnapping (696)
+[2021.08.18-07.47.05:018][157]LogModuleManager: Shutting down and abandoning module SessionServices (694)
+[2021.08.18-07.47.05:018][157]LogModuleManager: Shutting down and abandoning module MeshPaint (692)
+[2021.08.18-07.47.05:019][157]LogModuleManager: Shutting down and abandoning module ViewportSnapping (690)
+[2021.08.18-07.47.05:019][157]LogModuleManager: Shutting down and abandoning module ViewportInteraction (688)
+[2021.08.18-07.47.05:019][157]LogModuleManager: Shutting down and abandoning module ClothPainter (686)
+[2021.08.18-07.47.05:020][157]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (685)
+[2021.08.18-07.47.05:021][157]LogModuleManager: Shutting down and abandoning module LogVisualizer (682)
+[2021.08.18-07.47.05:023][157]LogModuleManager: Shutting down and abandoning module IntroTutorials (680)
+[2021.08.18-07.47.05:023][157]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (679)
+[2021.08.18-07.47.05:024][157]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (676)
+[2021.08.18-07.47.05:025][157]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (674)
+[2021.08.18-07.47.05:025][157]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (672)
+[2021.08.18-07.47.05:025][157]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (671)
+[2021.08.18-07.47.06:818][157]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (668)
+[2021.08.18-07.47.06:818][157]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (666)
+[2021.08.18-07.47.06:818][157]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (664)
+[2021.08.18-07.47.06:818][157]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (662)
+[2021.08.18-07.47.06:818][157]LogModuleManager: Shutting down and abandoning module TraceInsights (660)
+[2021.08.18-07.47.06:824][157]LogModuleManager: Shutting down and abandoning module TraceServices (659)
+[2021.08.18-07.47.06:825][157]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (656)
+[2021.08.18-07.47.06:825][157]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (654)
+[2021.08.18-07.47.06:825][157]LogModuleManager: Shutting down and abandoning module InputBindingEditor (652)
+[2021.08.18-07.47.06:826][157]LogModuleManager: Shutting down and abandoning module MergeActors (650)
+[2021.08.18-07.47.06:827][157]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (648)
+[2021.08.18-07.47.06:827][157]LogModuleManager: Shutting down and abandoning module LocalizationService (647)
+[2021.08.18-07.47.06:828][157]LogModuleManager: Shutting down and abandoning module HardwareTargeting (644)
+[2021.08.18-07.47.06:828][157]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (642)
+[2021.08.18-07.47.06:829][157]LogModuleManager: Shutting down and abandoning module UndoHistory (640)
+[2021.08.18-07.47.06:829][157]LogModuleManager: Shutting down and abandoning module XmlParser (638)
+[2021.08.18-07.47.06:829][157]LogModuleManager: Shutting down and abandoning module Blutility (636)
+[2021.08.18-07.47.06:829][157]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (634)
+[2021.08.18-07.47.06:829][157]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (633)
+[2021.08.18-07.47.06:830][157]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (630)
+[2021.08.18-07.47.06:830][157]LogModuleManager: Shutting down and abandoning module SettingsEditor (628)
+[2021.08.18-07.47.06:831][157]LogModuleManager: Shutting down and abandoning module ProjectLauncher (626)
+[2021.08.18-07.47.06:832][157]LogModuleManager: Shutting down and abandoning module SessionFrontend (624)
+[2021.08.18-07.47.06:832][157]LogModuleManager: Shutting down and abandoning module ProfilerClient (622)
+[2021.08.18-07.47.06:832][157]LogModuleManager: Shutting down and abandoning module DeviceManager (620)
+[2021.08.18-07.47.06:833][157]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (619)
+[2021.08.18-07.47.06:866][157]LogModuleManager: Shutting down and abandoning module AutomationController (616)
+[2021.08.18-07.47.06:867][157]LogModuleManager: Shutting down and abandoning module AutomationWindow (614)
+[2021.08.18-07.47.06:867][157]LogModuleManager: Shutting down and abandoning module Layers (612)
+[2021.08.18-07.47.06:869][157]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (610)
+[2021.08.18-07.47.06:869][157]LogModuleManager: Shutting down and abandoning module DetailCustomizations (608)
+[2021.08.18-07.47.06:870][157]LogModuleManager: Shutting down and abandoning module PackagesDialog (606)
+[2021.08.18-07.47.06:870][157]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (604)
+[2021.08.18-07.47.06:873][157]LogModuleManager: Shutting down and abandoning module Persona (602)
+[2021.08.18-07.47.06:874][157]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (601)
+[2021.08.18-07.47.06:874][157]LogModuleManager: Shutting down and abandoning module AnimGraph (599)
+[2021.08.18-07.47.06:875][157]LogModuleManager: Shutting down and abandoning module Kismet (596)
+[2021.08.18-07.47.06:884][157]LogModuleManager: Shutting down and abandoning module KismetWidgets (595)
+[2021.08.18-07.47.06:884][157]LogModuleManager: Shutting down and abandoning module GraphEditor (592)
+[2021.08.18-07.47.06:886][157]LogModuleManager: Shutting down and abandoning module StructViewer (590)
+[2021.08.18-07.47.06:886][157]LogModuleManager: Shutting down and abandoning module ClassViewer (588)
+[2021.08.18-07.47.06:887][157]LogModuleManager: Shutting down and abandoning module Toolbox (586)
+[2021.08.18-07.47.06:887][157]LogModuleManager: Shutting down and abandoning module ModuleUI (584)
+[2021.08.18-07.47.06:887][157]LogModuleManager: Shutting down and abandoning module OutputLog (582)
+[2021.08.18-07.47.06:889][157]LogModuleManager: Shutting down and abandoning module GammaUI (580)
+[2021.08.18-07.47.06:889][157]LogModuleManager: Shutting down and abandoning module Documentation (578)
+[2021.08.18-07.47.06:889][157]LogModuleManager: Shutting down and abandoning module LiveCoding (576)
+[2021.08.18-07.47.06:890][157]LogModuleManager: Shutting down and abandoning module LevelSequence (574)
+[2021.08.18-07.47.06:890][157]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (572)
+[2021.08.18-07.47.06:891][157]LogModuleManager: Shutting down and abandoning module MovieScene (570)
+[2021.08.18-07.47.06:891][157]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (568)
+[2021.08.18-07.47.06:892][157]LogModuleManager: Shutting down and abandoning module LauncherPlatform (566)
+[2021.08.18-07.47.06:892][157]LogModuleManager: Shutting down and abandoning module AnalyticsET (564)
+[2021.08.18-07.47.06:892][157]LogModuleManager: Shutting down and abandoning module PortalServices (562)
+[2021.08.18-07.47.06:892][157]LogModuleManager: Shutting down and abandoning module PortalRpc (560)
+[2021.08.18-07.47.06:892][157]LogModuleManager: Shutting down and abandoning module MessagingRpc (558)
+[2021.08.18-07.47.06:892][157]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (556)
+[2021.08.18-07.47.06:892][157]LogModuleManager: Shutting down and abandoning module AudioMixerCore (555)
+[2021.08.18-07.47.06:892][157]LogModuleManager: Shutting down and abandoning module AIModule (552)
+[2021.08.18-07.47.06:892][157]LogModuleManager: Shutting down and abandoning module GameplayDebugger (551)
+[2021.08.18-07.47.06:893][157]LogModuleManager: Shutting down and abandoning module AITestSuite (549)
+[2021.08.18-07.47.06:893][157]LogModuleManager: Shutting down and abandoning module NavigationSystem (547)
+[2021.08.18-07.47.06:893][157]LogModuleManager: Shutting down and abandoning module ProfilerService (544)
+[2021.08.18-07.47.07:129][157]LogModuleManager: Shutting down and abandoning module TaskGraph (542)
+[2021.08.18-07.47.07:130][157]LogModuleManager: Shutting down and abandoning module ScreenshotTools (540)
+[2021.08.18-07.47.07:130][157]LogModuleManager: Shutting down and abandoning module SynthesisEditor (538)
+[2021.08.18-07.47.07:130][157]LogModuleManager: Shutting down and abandoning module Synthesis (536)
+[2021.08.18-07.47.07:131][157]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (534)
+[2021.08.18-07.47.07:131][157]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (532)
+[2021.08.18-07.47.07:132][157]LogModuleManager: Shutting down and abandoning module OculusEditor (530)
+[2021.08.18-07.47.07:132][157]LogModuleManager: Shutting down and abandoning module OculusInput (528)
+[2021.08.18-07.47.07:132][157]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (526)
+[2021.08.18-07.47.07:132][157]LogModuleManager: Shutting down and abandoning module GooglePAD (524)
+[2021.08.18-07.47.07:132][157]LogModuleManager: Shutting down and abandoning module EditableMesh (522)
+[2021.08.18-07.47.07:132][157]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (520)
+[2021.08.18-07.47.07:132][157]LogModuleManager: Shutting down and abandoning module CableComponent (518)
+[2021.08.18-07.47.07:132][157]LogModuleManager: Shutting down and abandoning module AudioCapture (516)
+[2021.08.18-07.47.07:132][157]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (515)
+[2021.08.18-07.47.07:132][157]LogModuleManager: Shutting down and abandoning module AssetTags (512)
+[2021.08.18-07.47.07:132][157]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (510)
+[2021.08.18-07.47.07:133][157]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (508)
+[2021.08.18-07.47.07:133][157]LogModuleManager: Shutting down and abandoning module AppleImageUtils (506)
+[2021.08.18-07.47.07:133][157]LogModuleManager: Shutting down and abandoning module AndroidPermission (504)
+[2021.08.18-07.47.07:133][157]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (502)
+[2021.08.18-07.47.07:133][157]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (500)
+[2021.08.18-07.47.07:134][157]LogModuleManager: Shutting down and abandoning module TemplateSequence (498)
+[2021.08.18-07.47.07:134][157]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineEditor (496)
+[2021.08.18-07.47.07:135][157]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineRenderPasses (494)
+[2021.08.18-07.47.07:136][157]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineSettings (492)
+[2021.08.18-07.47.07:136][157]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineCore (490)
+[2021.08.18-07.47.07:136][157]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (489)
+[2021.08.18-07.47.07:137][157]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (486)
+[2021.08.18-07.47.07:137][157]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (484)
+[2021.08.18-07.47.07:138][157]LogModuleManager: Shutting down and abandoning module MediaCompositing (482)
+[2021.08.18-07.47.07:138][157]LogModuleManager: Shutting down and abandoning module ImgMedia (480)
+[2021.08.18-07.47.07:139][157]LogModuleManager: Shutting down and abandoning module BlockoutToolsPlugin (478)
+[2021.08.18-07.47.07:139][157]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (476)
+[2021.08.18-07.47.07:139][157]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (474)
+[2021.08.18-07.47.07:139][157]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (472)
+[2021.08.18-07.47.07:140][157]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (470)
+[2021.08.18-07.47.07:140][157]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (468)
+[2021.08.18-07.47.07:140][157]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (466)
+[2021.08.18-07.47.07:143][157]LogModuleManager: Shutting down and abandoning module MeshSolverUtilities (464)
+[2021.08.18-07.47.07:143][157]LogModuleManager: Shutting down and abandoning module MeshConversion (462)
+[2021.08.18-07.47.07:144][157]LogModuleManager: Shutting down and abandoning module DynamicMesh (460)
+[2021.08.18-07.47.07:144][157]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (458)
+[2021.08.18-07.47.07:145][157]LogModuleManager: Shutting down and abandoning module GeometricObjects (456)
+[2021.08.18-07.47.07:145][157]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (454)
+[2021.08.18-07.47.07:145][157]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (453)
+[2021.08.18-07.47.07:145][157]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (450)
+[2021.08.18-07.47.07:145][157]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (448)
+[2021.08.18-07.47.07:145][157]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (446)
+[2021.08.18-07.47.07:145][157]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (444)
+[2021.08.18-07.47.07:145][157]LogModuleManager: Shutting down and abandoning module ChaosNiagara (442)
+[2021.08.18-07.47.07:145][157]LogModuleManager: Shutting down and abandoning module FractureEditor (440)
+[2021.08.18-07.47.07:146][157]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (438)
+[2021.08.18-07.47.07:146][157]LogModuleManager: Shutting down and abandoning module ChaosCloth (436)
+[2021.08.18-07.47.07:146][157]LogModuleManager: Shutting down and abandoning module BackChannel (434)
+[2021.08.18-07.47.07:147][157]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (432)
+[2021.08.18-07.47.07:147][157]LogModuleManager: Shutting down and abandoning module AutomationUtils (430)
+[2021.08.18-07.47.07:147][157]LogModuleManager: Shutting down and abandoning module AlembicImporter (428)
+[2021.08.18-07.47.07:147][157]LogModuleManager: Shutting down and abandoning module AlembicLibrary (427)
+[2021.08.18-07.47.07:147][157]LogModuleManager: Shutting down and abandoning module GeometryCache (426)
+[2021.08.18-07.47.07:147][157]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (425)
+[2021.08.18-07.47.07:147][157]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (420)
+[2021.08.18-07.47.07:148][157]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (418)
+[2021.08.18-07.47.07:148][157]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (416)
+[2021.08.18-07.47.07:148][157]LogModuleManager: Shutting down and abandoning module PluginBrowser (414)
+[2021.08.18-07.47.07:150][157]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (412)
+[2021.08.18-07.47.07:150][157]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (410)
+[2021.08.18-07.47.07:151][157]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (408)
+[2021.08.18-07.47.07:151][157]LogModuleManager: Shutting down and abandoning module CurveEditorTools (406)
+[2021.08.18-07.47.07:152][157]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (404)
+[2021.08.18-07.47.07:152][157]LogModuleManager: Shutting down and abandoning module CryptoKeys (402)
+[2021.08.18-07.47.07:152][157]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (400)
+[2021.08.18-07.47.07:152][157]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (398)
+[2021.08.18-07.47.07:152][157]LogModuleManager: Shutting down and abandoning module UObjectPlugin (396)
+[2021.08.18-07.47.07:152][157]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (394)
+[2021.08.18-07.47.07:153][157]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (392)
+[2021.08.18-07.47.07:153][157]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (390)
+[2021.08.18-07.47.07:155][157]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (388)
+[2021.08.18-07.47.07:157][157]LogModuleManager: Shutting down and abandoning module GitSourceControl (386)
+[2021.08.18-07.47.07:158][157]LogModuleManager: Shutting down and abandoning module SourceControl (385)
+[2021.08.18-07.47.07:159][157]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (382)
+[2021.08.18-07.47.07:159][157]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (380)
+[2021.08.18-07.47.07:159][157]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (378)
+[2021.08.18-07.47.07:159][157]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (376)
+[2021.08.18-07.47.07:159][157]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (374)
+[2021.08.18-07.47.07:159][157]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (372)
+[2021.08.18-07.47.07:159][157]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (370)
+[2021.08.18-07.47.07:159][157]LogModuleManager: Shutting down and abandoning module Paper2DEditor (368)
+[2021.08.18-07.47.07:161][157]LogModuleManager: Shutting down and abandoning module TheStoneNewAdventure (366)
+[2021.08.18-07.47.07:161][157]LogModuleManager: Shutting down and abandoning module SoundFields (364)
+[2021.08.18-07.47.07:161][157]LogModuleManager: Shutting down and abandoning module SignificanceManager (362)
+[2021.08.18-07.47.07:161][157]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (360)
+[2021.08.18-07.47.07:161][157]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (358)
+[2021.08.18-07.47.07:161][157]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (354)
+[2021.08.18-07.47.07:161][157]LogModuleManager: Shutting down and abandoning module ActorSequence (352)
+[2021.08.18-07.47.07:161][157]LogModuleManager: Shutting down and abandoning module UdpMessaging (350)
+[2021.08.18-07.47.07:262][157]LogModuleManager: Shutting down and abandoning module TcpMessaging (348)
+[2021.08.18-07.47.07:364][157]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (346)
+[2021.08.18-07.47.07:364][157]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (344)
+[2021.08.18-07.47.07:364][157]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (342)
+[2021.08.18-07.47.07:364][157]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (340)
+[2021.08.18-07.47.07:364][157]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (338)
+[2021.08.18-07.47.07:364][157]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2021.08.18-07.47.07:365][157]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (336)
+[2021.08.18-07.47.07:365][157]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (334)
+[2021.08.18-07.47.07:365][157]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (332)
+[2021.08.18-07.47.07:366][157]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (330)
+[2021.08.18-07.47.07:366][157]LogModuleManager: Shutting down and abandoning module MagicLeapController (328)
+[2021.08.18-07.47.07:367][157]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2021.08.18-07.47.07:367][157]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (326)
+[2021.08.18-07.47.07:368][157]LogModuleManager: Shutting down and abandoning module MagicLeapAR (324)
+[2021.08.18-07.47.07:368][157]LogModuleManager: Shutting down and abandoning module AugmentedReality (323)
+[2021.08.18-07.47.07:368][157]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (320)
+[2021.08.18-07.47.07:368][157]LogModuleManager: Shutting down and abandoning module Niagara (318)
+[2021.08.18-07.47.07:369][157]LogModuleManager: Shutting down and abandoning module SignalProcessing (317)
+[2021.08.18-07.47.07:369][157]LogModuleManager: Shutting down and abandoning module NiagaraEditor (315)
+[2021.08.18-07.47.07:371][157]LogModuleManager: Shutting down and abandoning module NiagaraCore (312)
+[2021.08.18-07.47.07:371][157]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (310)
+[2021.08.18-07.47.07:371][157]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (308)
+[2021.08.18-07.47.07:372][157]LogModuleManager: Shutting down and abandoning module FacialAnimation (306)
+[2021.08.18-07.47.07:372][157]LogModuleManager: Shutting down and abandoning module DataValidation (304)
+[2021.08.18-07.47.07:372][157]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (302)
+[2021.08.18-07.47.07:373][157]LogModuleManager: Shutting down and abandoning module LevelEditor (301)
+[2021.08.18-07.47.07:377][157]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (300)
+[2021.08.18-07.47.07:377][157]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (298)
+[2021.08.18-07.47.07:378][157]LogModuleManager: Shutting down and abandoning module MainFrame (296)
+[2021.08.18-07.47.07:378][157]LogModuleManager: Shutting down and abandoning module HotReload (295)
+[2021.08.18-07.47.07:379][157]LogModuleManager: Shutting down and abandoning module ToolMenus (291)
+[2021.08.18-07.47.07:379][157]LogModuleManager: Shutting down and abandoning module TreeMap (289)
+[2021.08.18-07.47.07:380][157]LogModuleManager: Shutting down and abandoning module AnimationSharing (286)
+[2021.08.18-07.47.07:380][157]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (284)
+[2021.08.18-07.47.07:380][157]LogModuleManager: Shutting down and abandoning module Paper2D (282)
+[2021.08.18-07.47.07:380][157]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (280)
+[2021.08.18-07.47.07:690][157]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (278)
+[2021.08.18-07.47.07:691][157]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (276)
+[2021.08.18-07.47.07:691][157]LogModuleManager: Shutting down and abandoning module PacketHandler (274)
+[2021.08.18-07.47.07:691][157]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (272)
+[2021.08.18-07.47.07:691][157]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (270)
+[2021.08.18-07.47.07:695][157]LogModuleManager: Shutting down and abandoning module MediaAssets (268)
+[2021.08.18-07.47.07:695][157]LogModuleManager: Shutting down and abandoning module Overlay (266)
+[2021.08.18-07.47.07:695][157]LogModuleManager: Shutting down and abandoning module OverlayEditor (265)
+[2021.08.18-07.47.07:695][157]LogModuleManager: Shutting down and abandoning module VREditor (262)
+[2021.08.18-07.47.07:696][157]LogModuleManager: Shutting down and abandoning module StringTableEditor (260)
+[2021.08.18-07.47.07:697][157]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (258)
+[2021.08.18-07.47.07:697][157]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (256)
+[2021.08.18-07.47.07:700][157]LogModuleManager: Shutting down and abandoning module FunctionalTesting (254)
+[2021.08.18-07.47.07:701][157]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (252)
+[2021.08.18-07.47.07:701][157]LogModuleManager: Shutting down and abandoning module UMG (250)
+[2021.08.18-07.47.07:701][157]LogModuleManager: Shutting down and abandoning module UMGEditor (249)
+[2021.08.18-07.47.07:702][157]LogModuleManager: Shutting down and abandoning module MessageLog (247)
+[2021.08.18-07.47.07:702][157]LogModuleManager: Shutting down and abandoning module MaterialEditor (245)
+[2021.08.18-07.47.07:703][157]LogModuleManager: Shutting down and abandoning module ContentBrowser (244)
+[2021.08.18-07.47.07:727][157]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (243)
+[2021.08.18-07.47.07:728][157]LogModuleManager: Shutting down and abandoning module SlateReflector (236)
+[2021.08.18-07.47.07:731][157]LogModuleManager: Shutting down and abandoning module Slate (234)
+[2021.08.18-07.47.07:731][157]LogModuleManager: Shutting down and abandoning module SlateCore (232)
+[2021.08.18-07.47.07:731][157]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (230)
+[2021.08.18-07.47.07:731][157]LogModuleManager: Shutting down and abandoning module UnrealEd (228)
+[2021.08.18-07.47.07:732][157]LogModuleManager: Shutting down and abandoning module MRMesh (226)
+[2021.08.18-07.47.07:732][157]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (224)
+[2021.08.18-07.47.07:732][157]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (222)
+[2021.08.18-07.47.07:732][157]LogModuleManager: Shutting down and abandoning module XAudio2 (220)
+[2021.08.18-07.47.07:733][157]LogModuleManager: Shutting down and abandoning module Networking (218)
+[2021.08.18-07.47.07:733][157]LogModuleManager: Shutting down and abandoning module Core (216)
+[2021.08.18-07.47.07:733][157]LogModuleManager: Shutting down and abandoning module MovieSceneTools (214)
+[2021.08.18-07.47.07:734][157]LogModuleManager: Shutting down and abandoning module CurveEditor (213)
+[2021.08.18-07.47.07:734][157]LogModuleManager: Shutting down and abandoning module Sequencer (211)
+[2021.08.18-07.47.07:735][157]LogModuleManager: Shutting down and abandoning module EditorStyle (210)
+[2021.08.18-07.47.07:744][157]LogModuleManager: Shutting down and abandoning module KismetCompiler (206)
+[2021.08.18-07.47.07:745][157]LogModuleManager: Shutting down and abandoning module MeshBuilder (204)
+[2021.08.18-07.47.07:745][157]LogModuleManager: Shutting down and abandoning module MeshUtilities (202)
+[2021.08.18-07.47.07:753][157]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (201)
+[2021.08.18-07.47.07:754][157]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (200)
+[2021.08.18-07.47.07:754][157]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (199)
+[2021.08.18-07.47.07:754][157]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (197)
+[2021.08.18-07.47.07:755][157]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (195)
+[2021.08.18-07.47.07:755][157]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (193)
+[2021.08.18-07.47.07:756][157]LogModuleManager: Shutting down and abandoning module MaterialBaking (189)
+[2021.08.18-07.47.07:757][157]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (184)
+[2021.08.18-07.47.07:757][157]LogModuleManager: Shutting down and abandoning module DerivedDataCache (182)
+[2021.08.18-07.47.07:757][157]LogModuleManager: Shutting down and abandoning module XGEController (180)
+[2021.08.18-07.47.07:757][157]LogModuleManager: Shutting down and abandoning module TargetPlatform (178)
+[2021.08.18-07.47.07:758][157]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (177)
+[2021.08.18-07.47.07:759][157]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (175)
+[2021.08.18-07.47.07:760][157]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (173)
+[2021.08.18-07.47.07:760][157]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (171)
+[2021.08.18-07.47.07:760][157]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (169)
+[2021.08.18-07.47.07:761][157]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (167)
+[2021.08.18-07.47.07:761][157]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (165)
+[2021.08.18-07.47.07:761][157]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (163)
+[2021.08.18-07.47.07:761][157]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (161)
+[2021.08.18-07.47.07:762][157]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (159)
+[2021.08.18-07.47.07:762][157]LogModuleManager: Shutting down and abandoning module ImageWrapper (158)
+[2021.08.18-07.47.07:762][157]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (155)
+[2021.08.18-07.47.07:762][157]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (153)
+[2021.08.18-07.47.07:762][157]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (151)
+[2021.08.18-07.47.07:762][157]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (149)
+[2021.08.18-07.47.07:763][157]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (147)
+[2021.08.18-07.47.07:763][157]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (145)
+[2021.08.18-07.47.07:763][157]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (143)
+[2021.08.18-07.47.07:763][157]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (141)
+[2021.08.18-07.47.07:763][157]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (139)
+[2021.08.18-07.47.07:802][157]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (137)
+[2021.08.18-07.47.07:827][157]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (135)
+[2021.08.18-07.47.07:828][157]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (133)
+[2021.08.18-07.47.07:828][157]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (131)
+[2021.08.18-07.47.07:828][157]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (129)
+[2021.08.18-07.47.07:828][157]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (127)
+[2021.08.18-07.47.07:829][157]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (125)
+[2021.08.18-07.47.07:829][157]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2021.08.18-07.47.07:829][157]LogModuleManager: Shutting down and abandoning module Messaging (121)
+[2021.08.18-07.47.07:829][157]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (119)
+[2021.08.18-07.47.07:894][157]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (117)
+[2021.08.18-07.47.08:151][157]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (115)
+[2021.08.18-07.47.08:151][157]LogModuleManager: Shutting down and abandoning module InputCore (112)
+[2021.08.18-07.47.08:151][157]LogModuleManager: Shutting down and abandoning module Settings (110)
+[2021.08.18-07.47.08:151][157]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (108)
+[2021.08.18-07.47.08:160][157]LogModuleManager: Shutting down and abandoning module PhysXCooking (106)
+[2021.08.18-07.47.08:161][157]LogModuleManager: Shutting down and abandoning module ChaosSolvers (104)
+[2021.08.18-07.47.08:162][157]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (103)
+[2021.08.18-07.47.08:162][157]LogModuleManager: Shutting down and abandoning module Chaos (100)
+[2021.08.18-07.47.08:162][157]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (98)
+[2021.08.18-07.47.08:163][157]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (97)
+[2021.08.18-07.47.08:163][157]LogModuleManager: Shutting down and abandoning module AVEncoder (96)
+[2021.08.18-07.47.08:163][157]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (92)
+[2021.08.18-07.47.08:164][157]LogModuleManager: Shutting down and abandoning module SteamVRInput (90)
+[2021.08.18-07.47.08:164][157]LogModuleManager: Shutting down and abandoning module SteamVR (88)
+[2021.08.18-07.47.08:164][157]LogHMD: Freeing OpenVRDLLHandle.
+[2021.08.18-07.47.08:165][157]LogModuleManager: Shutting down and abandoning module OculusHMD (86)
+[2021.08.18-07.47.08:165][157]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (84)
+[2021.08.18-07.47.08:165][157]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (82)
+[2021.08.18-07.47.08:165][157]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (80)
+[2021.08.18-07.47.08:165][157]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (76)
+[2021.08.18-07.47.08:169][157]LogModuleManager: Shutting down and abandoning module XMPP (71)
+[2021.08.18-07.47.08:169][157]LogModuleManager: Shutting down and abandoning module WebSockets (70)
+[2021.08.18-07.47.08:226][157]LogModuleManager: Shutting down and abandoning module HTTP (67)
+[2021.08.18-07.47.08:226][157]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2021.08.18-07.47.08:226][157]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE8CCC178-425F-C87D-7797-A8AB03FB9031%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=9de648bc40e94b670662499739886417%7C7fcd3065dbe74d018cef09b9f638d8fb%7Cc26a8d64-550b-49b3-9622-9e456636e0ea&AppEnvironment=datacollector-source&UploadType=eteventstream] refs=[1] status=Processing
+[2021.08.18-07.47.08:258][157]LogModuleManager: Shutting down and abandoning module SSL (66)
+[2021.08.18-07.47.08:261][157]LogModuleManager: Shutting down and abandoning module WmfMedia (62)
+[2021.08.18-07.47.08:265][157]LogModuleManager: Shutting down and abandoning module Media (61)
+[2021.08.18-07.47.08:267][157]LogModuleManager: Shutting down and abandoning module MagicLeap (58)
+[2021.08.18-07.47.08:267][157]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (56)
+[2021.08.18-07.47.08:268][157]LogModuleManager: Shutting down and abandoning module NiagaraShader (54)
+[2021.08.18-07.47.08:268][157]LogModuleManager: Shutting down and abandoning module VariantManagerContent (52)
+[2021.08.18-07.47.08:268][157]LogModuleManager: Shutting down and abandoning module DatasmithContent (50)
+[2021.08.18-07.47.08:269][157]LogModuleManager: Shutting down and abandoning module AISupportModule (48)
+[2021.08.18-07.47.08:269][157]LogModuleManager: Shutting down and abandoning module DesktopPlatform (46)
+[2021.08.18-07.47.08:270][157]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2021.08.18-07.47.08:270][157]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2021.08.18-07.47.08:270][157]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2021.08.18-07.47.08:270][157]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2021.08.18-07.47.08:271][157]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2021.08.18-07.47.08:271][157]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2021.08.18-07.47.08:276][157]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2021.08.18-07.47.08:276][157]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2021.08.18-07.47.08:276][157]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2021.08.18-07.47.08:276][157]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2021.08.18-07.47.08:284][157]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2021.08.18-07.47.08:284][157]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2021.08.18-07.47.08:284][157]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2021.08.18-07.47.08:284][157]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2021.08.18-07.47.08:284][157]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2021.08.18-07.47.08:284][157]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2021.08.18-07.47.08:284][157]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2021.08.18-07.47.08:284][157]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2021.08.18-07.47.08:284][157]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2021.08.18-07.47.08:284][157]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2021.08.18-07.47.08:285][157]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2021.08.18-07.47.08:285][157]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2021.08.18-07.47.08:286][157]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2021.08.18-07.47.08:293][157]LogD3D11RHI: Shutdown
+[2021.08.18-07.47.08:293][157]LogD3D11RHI: CleanupD3DDevice
+[2021.08.18-07.47.08:342][157]LogExit: Exiting.
+[2021.08.18-07.47.08:445][157]Log file closed, 08/18/21 16:47:08
